@@ -1,0 +1,16 @@
+{
+  "name": "Sistema Taller Mecánico",
+  "short_name": "TallerApp",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#121212",
+  "description": "Gestión integral de taller mecánico",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1995/1995470.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
